@@ -5,7 +5,7 @@
 ## Overview
 
 The Farm Monitoring System is a sophisticated computer vision project designed to revolutionize on-farm surveillance and management. The primary goal is to empower farmers with actionable insights derived from real-time video surveillance and advanced deep learning models. The project addresses key aspects of tomato farming, including disease detection, impact assessment, and overall crop management.
-
+![Farm Monitoring System]([images/segmentation.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Frevolutionizing-agriculture-computer-vision-terala-chittibabu&psig=AOvVaw3xe-zqhJNpZxvGLn5jJjhA&ust=1705276779037000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjPoKTJ24MDFQAAAAAdAAAAABAW))
 ## Purpose
 
 Modernizing Agriculture: Agriculture is the backbone of our society, and this project aims to bring cutting-edge technology to the fields. By leveraging computer vision and deep learning, we strive to modernize agricultural practices and enhance the efficiency and sustainability of tomato farming.
